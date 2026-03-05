@@ -1,0 +1,12 @@
+train: C:\Users\Mishi\datasets\train\images
+val: C:\Users\Mishi\datasets\valid\images
+
+nc: 1
+names: ['licence_plate']
+
+roboflow:
+  workspace: mishi1
+  project: licence_plate-ytfja
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mishi1/licence_plate-ytfja/dataset/1
